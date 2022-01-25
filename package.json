@@ -1,0 +1,28 @@
+{
+  "name": "com.unity-atoms.unity-atoms-vector3int",
+  "displayName": "Unity Atoms Vector3Int",
+  "version": "4.4.3",
+  "unity": "2018.3",
+  "description": "Unity Atoms for Vector3Int.",
+  "keywords": [
+    "scriptable objects",
+    "unity"
+  ],
+  "category": "Unity",
+  "files": [
+    "/package.json",
+    "/package.json.meta",
+    "/Runtime",
+    "/Runtime.meta",
+    "/Editor",
+    "/Editor.meta",
+    "/Documentation",
+    "/Documentation.meta"
+  ],
+  "dependencies": {
+    "com.unity-atoms.unity-atoms-core": "4.4.3"
+  },
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
