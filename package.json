@@ -1,9 +1,9 @@
 {
-  "name": "com.unity-atoms.unity-atoms-vector3int",
+  "name": "com.unity-atoms.vector3int",
   "displayName": "Unity Atoms Vector3Int",
   "version": "4.4.3",
   "unity": "2018.3",
-  "description": "Unity Atoms for Vector3Int.",
+  "description": "Base set of Atoms based on Unity Atoms Core.",
   "keywords": [
     "scriptable objects",
     "unity"
